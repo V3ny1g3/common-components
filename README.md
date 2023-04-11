@@ -1,2 +1,1 @@
-# common-components
-common-components
+teszt header
